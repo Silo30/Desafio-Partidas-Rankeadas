@@ -12,4 +12,4 @@ if (rankDoHeroi <= 10){
     nivelDoHeroi = "bronze"
 }
 
-console.log("O Herói tem de saldo " + rankDoHeroi + "vitórias");
+console.log("O Herói tem de saldo " + rankDoHeroi + " vitórias e está no nível de " + nivelDoHeroi);
