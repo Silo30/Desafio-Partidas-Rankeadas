@@ -4,3 +4,5 @@ function calcularRank(vitorias, derrotas){
     let saldoRankeadas = vitorias - derrotas;
     return saldoRankeadas
 }
+
+console.log(rankDoHeroi)
