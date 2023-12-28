@@ -1,4 +1,4 @@
-let rankDoHeroi = calcularRank(200,150)
+let rankDoHeroi = calcularRank(202,150)
 let nivelDoHeroi;
 
 function calcularRank(vitorias, derrotas){
